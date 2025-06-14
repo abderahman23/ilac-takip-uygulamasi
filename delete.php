@@ -4,11 +4,11 @@ require_once 'db.php';
 
 // Giriş kontrolü
 if (!isset($_SESSION['user_id'])) {
-    header("Location: login.php");
+    header("Location: index.php");
     exit();
 }
 
-// ID kontrolü
+// ID kontrolüz
 if (!isset($_GET['id'])) {
     header("Location: dashboard.php");
     exit();
