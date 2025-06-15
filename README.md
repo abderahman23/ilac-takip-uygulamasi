@@ -24,5 +24,7 @@ Temiz ve kullanıcı dostu arayüz
 ![image](https://github.com/user-attachments/assets/0ce548ea-18a2-46e1-a90f-fe3e88a615b0)
 ![image](https://github.com/user-attachments/assets/beff2be7-d9ef-4689-93b5-b7c2216742d7)
 
+📺 Tanıtım Videosu
 
+<a heref="https://youtu.be/qK3oSioIdM0">👉 YouTube’da İzle</a>
 
