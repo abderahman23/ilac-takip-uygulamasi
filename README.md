@@ -26,5 +26,5 @@ Temiz ve kullanıcı dostu arayüz
 
 📺 Tanıtım Videosu
 
-<a heref="https://youtu.be/qK3oSioIdM0">👉 YouTube’da İzle</a>
+[👉Youtube'da izle](https://youtu.be/qK3oSioIdM0)
 
